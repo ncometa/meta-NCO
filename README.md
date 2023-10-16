@@ -1,3 +1,4 @@
 # meta-NCO
 
-Code will be updated soon.
+The code can be downloaded from 
+https://github.com/ddrakulic/meta-NCO
